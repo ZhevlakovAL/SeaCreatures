@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Пятнашки. Морские животные</string>
+    <string name="menu_info">Информация</string>
+    <string name="menu_exit">Выход</string>
+    <string name="main_menu">В главное меню</string>
+    <string name="press_to_screen">Для перехода к игре нажмите на экран</string>
+    <string name="congratulations_you_have_won">Поздравляю, Вы выиграли!!!</string>
+    <string name="repeat">Повторить</string>
+    <string name="closed_game">Закрыть игру</string>
+    <string name="menu_new">Новая игра</string>
+    <string name="menu_number">Цифры</string>
+    <string name="ringed_seal">Кольчатая нерпа</string>
+    <string name="pup_of_ringed_seal">Детёныш кольчатой нерпы</string>
+    <string name="leopard_seal">Морской леопард</string>
+    <string name="elephant_seal">Морской слон</string>
+    <string name="sea_lion">Сивуч</string>
+    <string name="walrus">Морж</string>
+    <string name="time">Время</string>
+    <string name="step">Шаг</string>
+    <string name="banner_ad_unit_id">ca-app-pub-3737226338389559/3692233822</string>
+</resources>

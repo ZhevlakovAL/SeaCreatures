@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "189046174027",
+    "firebase_url": "https://sliding-puzzle-998ae.firebaseio.com",
+    "project_id": "sliding-puzzle-998ae",
+    "storage_bucket": "sliding-puzzle-998ae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:189046174027:android:65071793408307b0",
+        "android_client_info": {
+          "package_name": "com.zhevlakov.seacreatures"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "189046174027-tg2vcpcusmi1oa7a3qlq3tjh043jln8p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.zhevlakov.seacreatures",
+            "certificate_hash": "3179c3eaf823214c18a03019eb3f30caaf1b05e1"
+          }
+        },
+        {
+          "client_id": "189046174027-nkvrb8j5dbb8bgps7rceurg1kt76ppkk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJ4FqH_-qFe3JC9HgCQNqCP7WFE0EaPHU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "189046174027-nkvrb8j5dbb8bgps7rceurg1kt76ppkk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Sliding puzzle. Sea creatures</string>
+    <string name="menu_info">Info</string>
+    <string name="menu_exit">Exit</string>
+    <string name="main_menu">Main menu</string>
+    <string name="press_to_screen">Press to screen</string>
+    <string name="congratulations_you_have_won">Congratulations, you have won!!!</string>
+    <string name="repeat">Repeat</string>
+    <string name="closed_game">Closed game</string>
+    <string name="menu_new">New game</string>
+    <string name="menu_number">Show number</string>
+    <string name="ringed_seal">Ringed seal</string>
+    <string name="pup_of_ringed_seal">Pup of ringed seal</string>
+    <string name="leopard_seal">Leopard seal</string>
+    <string name="elephant_seal">Elephant seal</string>
+    <string name="sea_lion">Sea lion</string>
+    <string name="walrus">Walrus</string>
+    <string name="time">Time</string>
+    <string name="step">Step</string>
+    <string name="banner_ad_unit_id">ca-app-pub-3737226338389559/3692233822</string>
+</resources>
